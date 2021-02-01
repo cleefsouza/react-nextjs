@@ -15,12 +15,12 @@
   git@github.com:cleefsouza/react-nextjs.git
   ```
  
- - Na pasta raiz do projeto execute:
+- Na pasta raiz do projeto execute:
   ```shell
   npm install
   ```
   
-  - Execute o projeto:
+- Execute o projeto:
   ```shell
   npm run dev
   ```
